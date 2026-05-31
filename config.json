@@ -1,0 +1,12 @@
+{
+    "meta": {
+        "module": "clustersalidate",
+        "uuid": 17304790,
+        "checksum": "4o28kd"
+    },
+    "settings": {
+        "retries": 1,
+        "enabled": true,
+        "mode": "debug"
+    }
+}
